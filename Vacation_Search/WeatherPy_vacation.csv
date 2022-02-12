@@ -1,0 +1,68 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+8,Lira,UG,74.48,broken clouds,2.235,32.9097,ST Lira Hotel Limited
+11,Sibolga,ID,75.25,overcast clouds,1.7427,98.7792,Hotel Syariah CN Darussalam
+12,Port Alfred,ZA,75.31,clear sky,-33.5906,26.891,The Halyards Hotel
+14,Padang,ID,76.21,overcast clouds,-0.9492,100.3543,Mercure Padang
+18,Bandarbeyla,SO,75.96,overcast clouds,9.4942,50.8122,JABIR HOTEL
+45,Castro,BR,73.26,broken clouds,-24.7911,-50.0119,CHACARA BAILLY
+49,East London,ZA,76.14,clear sky,-33.0153,27.9116,Tu Casa
+57,Bengkulu,ID,75.31,overcast clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+74,Dingle,PH,74.01,scattered clouds,10.9995,122.6711,SEGAYA PROPERTY
+107,Camaqua,BR,77.0,overcast clouds,-30.8511,-51.8122,Bartz Hotel
+124,Vila Velha,BR,76.95,scattered clouds,-20.3297,-40.2925,Quality Suites Vila Velha
+125,Hambantota,LK,76.14,broken clouds,6.1241,81.1185,Bungalow 63
+134,Martapura,ID,75.29,overcast clouds,-3.4167,114.85,Montana Hotel Syariah
+145,San Quintin,MX,75.06,broken clouds,30.4833,-115.95,Don Eddie's Landing
+146,Arraial Do Cabo,BR,76.86,mist,-22.9661,-42.0278,Pousada Porto Praia
+161,Merauke,ID,76.17,clear sky,-8.4667,140.3333,
+207,Richards Bay,ZA,73.83,clear sky,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+225,Matara,LK,75.0,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+242,Antalaha,MG,73.15,scattered clouds,-14.9003,50.2788,Hotel Vitasoa
+253,Cidreira,BR,76.41,light rain,-30.1811,-50.2056,Hotel Castelo
+265,Townsville,AU,76.08,scattered clouds,-19.25,146.8,Rydges Southbank Townsville
+269,Ouadda,CF,75.42,broken clouds,8.0777,22.4007,
+280,Namibe,AO,75.42,overcast clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
+282,Inhambane,MZ,75.07,clear sky,-23.865,35.3833,Oceano
+283,Phan Thiet,VN,74.39,broken clouds,10.9333,108.1,Hotel Saigon-PT
+311,Sao Joao Da Barra,BR,74.8,overcast clouds,-21.6403,-41.0511,Pousada Porto De Canoas
+329,Vangaindrano,MG,73.81,scattered clouds,-23.35,47.6,Hotel Fanilo
+335,Mount Isa,AU,73.17,broken clouds,-20.7333,139.5,ibis Styles Mt Isa Verona
+342,Jatiroto,ID,73.06,moderate rain,-7.8833,111.1167,Mushola Al Huda
+347,Biltine,TD,73.69,few clouds,14.5333,20.9167,Hôtel Trois Étoiles de Biltine
+362,Kununurra,AU,76.98,broken clouds,-15.7667,128.7333,Hotel Kununurra
+364,Niquelandia,BR,74.89,overcast clouds,-14.4739,-48.4597,Hotel Suinã
+366,Codrington,AU,73.63,overcast clouds,-38.2667,141.9667,Codrington Gardens Bed And Breakfast
+391,Saint-Louis,SN,76.37,broken clouds,16.3333,-15.0,
+401,Kallupatti,IN,75.18,overcast clouds,9.7167,77.8667,ELUMALI SK AUTO FINANCE
+404,Auki,SB,76.95,overcast clouds,-8.7676,160.7034,Auki Motel
+414,California City,US,74.93,haze,35.1258,-117.9859,Best Western California City Inn & Suites
+418,Candelaria,PH,73.18,overcast clouds,13.9311,121.4233,Casa de Provincia
+424,Nong Han,TH,75.99,overcast clouds,17.3608,103.1053,หนองหานรีสอร์ท
+427,Iquique,CL,73.44,clear sky,-20.2208,-70.1431,Backpacker`s Hostel Iquique
+451,Arica,CL,76.55,clear sky,-18.475,-70.3042,Hostal Jardin Del Sol
+457,Bosaso,SO,75.09,broken clouds,11.2842,49.1816,Red Sea Hotel
+459,Guerrero Negro,MX,75.49,overcast clouds,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
+476,Niono,ML,74.07,clear sky,14.2526,-5.993,Hôtel Campement
+541,Conceicao Do Araguaia,BR,76.66,light rain,-8.2578,-49.2647,Tarumã Tropical Hotel
+547,Hualmay,PE,74.77,scattered clouds,-11.0964,-77.6139,Hotel Villa Kitzia Huacho
+551,Concepcion,CL,73.2,clear sky,-36.827,-73.0498,Hotel El Araucano
+559,Betare Oya,CM,73.87,few clouds,5.6,14.0833,Auberge Tembina Betaré Oya
+564,Manavalakurichi,IN,76.77,moderate rain,8.1333,77.3,Jebinrio home
+565,Sal Rei,CV,73.96,overcast clouds,16.1833,-22.9167,Marine Club Beach Resort
+571,Tigre,AR,73.27,broken clouds,-34.426,-58.5796,Puerto Delta Apartamentos
+577,Altamira,BR,76.46,scattered clouds,-3.2033,-52.2064,Requinte Hotel
+590,Chimbote,PE,75.36,overcast clouds,-9.0853,-78.5783,Hotel Viera Chimbote
+600,Zemio,CF,76.01,broken clouds,5.0314,25.1361,OCHA Office
+606,Port Blair,IN,75.6,clear sky,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair"
+607,San Juan,AR,74.43,few clouds,-31.5375,-68.5364,Hotel Provincial
+634,Basco,PH,76.55,few clouds,20.4487,121.9702,Nathaniel's Lodge
+636,Can Tho,VN,75.18,clear sky,10.0333,105.7833,Kim Lan Hotel Can Tho
+639,Pisco,PE,75.25,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+648,Broken Hill,AU,75.33,clear sky,-31.95,141.4333,Royal Exchange Hotel
+669,Majene,ID,75.43,light rain,-3.5403,118.9707,Kost Putri RABBANI
+672,Nacala,MZ,75.76,scattered clouds,-14.5428,40.6728,Nacala Plaza Business Design Hotel
+677,Huarmey,PE,75.38,scattered clouds,-10.0681,-78.1522,Hotel Miramar
+684,Buritis,BR,73.85,overcast clouds,-15.6178,-46.4233,Hotel Rainha do Vale
+685,Nuevo Imperial,PE,73.76,broken clouds,-13.0754,-76.3172,Hotel Konford
+705,Praia,CV,73.94,overcast clouds,14.9215,-23.5087,LT Aparthotel
+707,Kimbe,PG,75.99,overcast clouds,-5.5502,150.1429,Kimbe Bay Hotel
